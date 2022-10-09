@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there :smiley: 
+
+I'm very new, currently working on a beginners course with Edinburgh College. 
 
 <!--
 **C-McRath/C-McRath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
